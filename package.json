@@ -1,0 +1,15 @@
+{
+	"author": {
+		"name": "Florian Wendelborn"
+	},
+	"dependencies": {
+		"bitwise": "^2.0.0"
+	},
+	"license": "MIT",
+	"main": "index.js",
+	"name": "uuid4-bitwise",
+	"scripts": {
+		"start": "node uuid4"
+	},
+	"version": "1.0.0"
+}
